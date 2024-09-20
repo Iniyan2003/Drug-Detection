@@ -1,4 +1,3 @@
-# Drug-Detection
 
 # Drug Detection System
 
@@ -85,5 +84,4 @@ pip install torch opencv-python torchvision python-telegram-bot
 - Integrate more robust error handling for video capture and notification failures.
 
 ## Acknowledgements
-
 - The project leverages the [YOLOv5 model](https://github.com/ultralytics/yolov5), known for its fast and accurate object detection capabilities.
