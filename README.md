@@ -40,14 +40,16 @@ pip install torch opencv-python torchvision python-telegram-bot
 
 1. *Clone the Repository*:
    Clone this repository using the following command:
-   bash
+   ```bash
    git clone https://github.com/Iniyan2003/Drug-Detection.git
+   ```
    
 
 2. *Install Dependencies*:
    Ensure that you have all the necessary libraries installed by running:
-   bash
+   ```bash
    pip install torch opencv-python torchvision python-telegram-bot
+   ```
    
 
 3. *Set up Telegram Bot*:
@@ -57,8 +59,9 @@ pip install torch opencv-python torchvision python-telegram-bot
 
 4. *Run the Detection Script*:
    Start the detection system by running:
-   bash
+   ```bash
    python drug_detector.py
+   ```
    
    The system will begin capturing video, and drug detection will occur in real-time. Detected images will be saved in the detected_images folder.
 
